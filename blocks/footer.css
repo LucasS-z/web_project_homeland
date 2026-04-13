@@ -1,0 +1,12 @@
+.footer{
+    margin-top: 92px;
+    padding-bottom: 24px;
+}
+
+.footer__copyright{
+    margin: 0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.42;
+    text-align: center;
+}
