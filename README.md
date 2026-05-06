@@ -14,11 +14,11 @@ O foco do projeto foi desenvolver o layout de uma pagina web com base no design 
 - CSS
 - Metodologia BEM
 - Flexbox
+- Grid Layout
 - Media Queries
 
 ## Ideias/Planos de Melhorias
 
-- Adicionar mais seções ao site, como uma seção contendo varias imagens e descrições das cidades natais.
 - Incluir links de navegação para facilitar a visualização de determinadas seções.
 
 ## Projeto no pages
